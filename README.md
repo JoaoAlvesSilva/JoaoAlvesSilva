@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Joao
 I'm a postdoctoral researcher in Theoretical Physics at the University of Oxford. 
 
-I'm transitioning from academia to industry. I'll use this website to document my learning progress in subjects like Data Science, Data Structures and Algorithms or SQL.
+I'm transitioning from academia to quantitative finance. I'll use this website to document my learning progress in subjects like Data Science, Data Structures and Algorithms or SQL.
 
 ![](https://github.com/JoaopadSilva/JoaopadSilva/blob/main/goggins_logs.jpeg)
 
